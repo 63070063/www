@@ -7,9 +7,9 @@
         <h1>แนะนำตัว</h1>
         <p>ชื่อ นายตะวันไท สัจจศรี</p>
         <p>ชื่อเล่น ไม้</p>
-        <img src="kda1.jpg">
-        <img src="kda2.jpg">
-        <img src="kda3.jpg">
+        echo <img src="kda1.jpg">
+        echo <img src="kda2.jpg">
+        echo <img src="kda3.jpg">
         <br>
         <a href="https://www.facebook.com/th.lol/">This is a link</a>
         
